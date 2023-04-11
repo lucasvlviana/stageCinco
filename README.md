@@ -1,0 +1,3 @@
+Stage 05 - Avançando no JavaScript
+
+Neste módulo veremos sobre: Como manupular o navegador utilizando a DOM, funções callbacks, recursividade, princípios do Clean Code, ES6 Modules, padrão Factory, njeção de dependências, refatoração de código e muito mais...
